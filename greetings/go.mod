@@ -1,4 +1,4 @@
-module github.com/rehman/go-learning-modules/greetings
+module github.com/rehmanm/go-learning-modules/greetings
 
 go 1.23.1
 
